@@ -1,0 +1,4 @@
+Console.ReadLine("AP");
+Console.ReadLine("Calculus");
+Console.ReadLine("ITS");
+Console.ReadLine("CP");
