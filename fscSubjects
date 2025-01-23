@@ -1,0 +1,4 @@
+Console.ReadLine("English");
+Console.ReadLine("Urdu");
+Console.ReadLine("Maths");
+Console.ReadLine("Computer");
